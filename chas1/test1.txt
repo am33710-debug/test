@@ -1,1 +1,7 @@
-Semos Akademija
+Sequential: (git before, text/change after, before these commands -> SAVE)
+init - initialize (only once)
+add - adding
+commit - description for action
+branch/main - the main part of the code or a branch (copy of original for updating)
+remote - URL for the changes (not required mostly, as its automated by GitHub)
+git push - pushes the changes onto GitHub so they're visible
